@@ -1,4 +1,8 @@
 *.o
 *.a
 *.so
+*.exe
 build/
+bin/
+obj/
+
